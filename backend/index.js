@@ -26,7 +26,7 @@ app.use("/admin",adminRouter)
 app.use("/usersrender", userrender)
 app.use("/adminproducts",adminproduct)
 
-
+// app.use("user")
 
 app.use("/users",userrouter)
 
